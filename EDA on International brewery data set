@@ -1,0 +1,46 @@
+INTRODUCTION
+
+The company's manager wants to get insight from the dataset that will enable him make descisions that will boost the brewery's business growth.
+And the dataset was provided by the cybersafe foundation as a SQL project to be worked on and as a creteria for the Data Analytics course completion Certification, graduation.
+
+
+DATA ANALYSIS
+ The dataset was cleaned with Excel, and was imported into postgresql for queries;
+ The questions below were answered;
+
+A. PROFIT ANALYSIS
+ 1. Within the space of the last three years, what was the profit worth of the breweries, incusive of the Anglophone and the Francophone territories?
+ 2. Compare the total profit between these two territories in order for the territory manager, Mr.stone to make a strtegic decision that will aid profit maximization in 2020.
+ 3. What country generated the highest profit in 2019.
+ 4. Help him find the year with the highest profit.
+ 5. Which month in the three years was the least profit generated?
+ 6. What was the minimum profit in the month of December 2018?
+ 7. Compare the profit for each of the months in 2019
+ 8. Which particular brand generated the highest profit in senegal?
+
+B.BRAND ANALYSIS
+ 1. Within the last two years, the brand manager wants to know the top three brands consumed in the francophone countries.
+ 2. Find out the top two choice of the consumer brands in Ghana.
+ 3. Find out the details of beers consumed in the past three years in the most oil reached country in west Africa.
+ 4. Favourite malt brand in Anglophone region between 2018 and 2019.
+ 5. Which brands sold the highest in 2019 in Nigeria?
+ 6. Favourites brand in South-South region in Nigeria.
+ 7. Beer consumption in Nigeria.
+ 8. Level of consumption of Budweiser in the regions of Nigeria
+ 9. Level of consumption of budweiser in the regions in Nigeria in 2019 (Decision on promo)
+
+C.COUNTRIES ANALYSIS
+ 1. Country with the highest consumption of beer.
+ 2. Highest sales personnel of budweiser in Senegal
+ 3. Country with the highest profit of the fourth quarter in 2019.
+ 
+ 
+ Below is the link to the dashboard for more insight.
+ https://public.tableau.com/app/profile/racheal.ogbozor1965/viz/Internationalbrewerycompanysdatasetfortheyear20172018and2019/Dashboard1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
